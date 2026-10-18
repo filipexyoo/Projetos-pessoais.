@@ -1,0 +1,16 @@
+{
+  "name": "Meus Animes PT-BR",
+  "version": "1.0.0",
+  "description": "Scraper de exemplo para meusanimes.blog",
+  "scrapers": [
+    {
+      "id": "meusanimes",
+      "name": "Meus Animes",
+      "description": "Anime dublado e legendado (PT-BR)",
+      "version": "1.0.0",
+      "filename": "meusanimes.js",
+      "supportedTypes": ["tv"],
+      "enabled": true
+    }
+  ]
+}
